@@ -2,7 +2,7 @@
 
 Many alphas in Kakushadze's [*101 Formulaic Alphas*](https://arxiv.org/abs/1601.00991) (2016) use constants like `9.91009` and `0.00817205`. This project re-implements 13 of them in pandas and tests whether those exact numbers carry signal on independent data, or whether they are fingerprints of an automated search fit to data we never see.
 
-**Interactive write-up:** [elaine-wu.vercel.app/projects/alpha101-constants](https://elaine-wu.vercel.app/projects/alpha101-constants)
+**Interactive write-up:** [elaine-wu.vercel.app/projects/alpha101-constants](https://elaine-wu.vercel.app/projects/alpha101-constants), part of my [portfolio](https://elaine-wu.vercel.app).
 
 ## TL;DR
 
